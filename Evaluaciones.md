@@ -1,6 +1,6 @@
 # ***EVALUACIONES BIMESTRE 1 CAMADA3 AÑO 2022***
 * ## **INTRODUCCION A LA INFORMATICA:**
-1. Primera entrega                        ***(Clase8-03/06/2022)***
+1. `Primera entrega                        ***(Clase8-03/06/2022)***`
 2. Checkpoint                             ***(Clase11-08/06/2022)***
 3. Segunda entrega                        ***(Clase12-10/06/2022)***
 4. Evaluacion                             ***(Clase13-13/06/2022)***

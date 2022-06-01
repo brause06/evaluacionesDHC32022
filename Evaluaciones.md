@@ -4,6 +4,7 @@
 2. Checkpoint                             ***(Clase11-08/06/2022)***
 3. Segunda entrega                        ***(Clase12-10/06/2022)***
 4. Evaluacion                             ***(Clase13-13/06/2022)***
+        Teorico(18 preg multiple choice con 1 sola respuesta correcta) Practico(8 preguntas)
 5. Tercera entrega                        ***(Clase15-17/06/2022)***
 6. Cuarta entrega                         ***(Clase18-27/06/2022)***
 7. Quinta entrega                         ***(Clase21-04/07/2022)***
